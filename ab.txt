@@ -1,2 +1,4 @@
 From Win
 From VM1
+
+new Vm1
