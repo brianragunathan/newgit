@@ -5,3 +5,6 @@ From VM1
 New win 1
 
 what to do
+
+new Vm1
+
